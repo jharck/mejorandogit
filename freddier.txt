@@ -2,4 +2,6 @@ Este es la comunidad mejorando.la
 
 Adding information to files on server. Creating conflicts on GIT.
 
+This line should be removed.
+
 Adding a third line to the file.
