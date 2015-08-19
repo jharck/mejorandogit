@@ -1,5 +1,5 @@
 Este es la comunidad mejorando.la
 
-Adding information to files on server.
+Adding information to files on server. Creating conflicts on GIT.
 
 Adding a third line to the file.
