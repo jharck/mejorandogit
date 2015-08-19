@@ -1,5 +1,5 @@
 Este es la comunidad mejorando.la
 
-Adding information to files on server.
+This line should be removed. Adding information to files on server.
 
 Adding a third line to the file.
